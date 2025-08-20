@@ -7,13 +7,13 @@ body {
     max-width: 800px;
     margin: 30px auto;
     background: #fff;
-    padding: 50px;
+    padding: min(3.125em, 8%);
     border-radius: 10px;
     box-shadow: 0 2px 8px #ccc;
 }
 h1 {
     font-size: 2.5em;
-    margin-bottom: 0;
+    margin-bottom: 0;   
 }
 h2 {
     color: #010a12;
@@ -37,7 +37,7 @@ ul {
 .job-title {
     text-align: left;
     font-weight: bold;
-    font-size: 20px;
+    font-size: 1.25em;
 }
 .company-c1 {
     font-weight: bold;
@@ -60,7 +60,4 @@ ul {
 }
 .last {
     width: 80%;
-}
-#edate {
-    padding-left: 380px;
 }
