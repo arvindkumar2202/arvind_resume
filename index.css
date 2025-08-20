@@ -7,7 +7,7 @@ body {
     max-width: 800px;
     margin: 30px auto;
     background: #fff;
-    padding: min(3.125em, 8%);
+    padding: min(4.250em, 8%);
     border-radius: 10px;
     box-shadow: 0 2px 8px #ccc;
 }
@@ -61,3 +61,4 @@ ul {
 .last {
     width: 80%;
 }
+
