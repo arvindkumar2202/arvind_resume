@@ -1,0 +1,66 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 40px;
+    background: #f9f9f9;
+}
+.container {
+    max-width: 800px;
+    margin: 30px auto;
+    background: #fff;
+    padding: 50px;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px #ccc;
+}
+h1 {
+    font-size: 2.5em;
+    margin-bottom: 0;
+}
+h2 {
+    color: #010a12;
+    font-size: 18px;
+    margin-top: 30px;
+}
+ul {
+    margin: 0;
+    padding-left: 20px;
+}
+.contact {
+    margin-bottom: 20px;
+    font-size: small;
+}
+.contact div {
+    display: block;
+}
+.section {
+    margin-bottom: 25px;
+}
+.job-title {
+    text-align: left;
+    font-weight: bold;
+    font-size: 20px;
+}
+.company-c1 {
+    font-weight: bold;
+    width:70%;
+    padding: 4px;
+}
+.date-c2 {
+    color: #888;
+    font-size: 0.95em;
+    width: 20%;
+}
+.topbar {
+    background-color: #1b1212;
+    height: 7px;
+}
+.parent {
+    text-align: left;
+    display:flex;
+    justify-content: space-between;
+}
+.last {
+    width: 80%;
+}
+#edate {
+    padding-left: 380px;
+}
